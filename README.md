@@ -5,3 +5,4 @@
 - [My review of the System Design book](https://ahmet.im/blog/system-design-book-review/)
 - [On the cruelty of really teaching computing science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
 - [Introduction to Distributed Systems](https://cse.buffalo.edu/~demirbas/CSE586/book.pdf)
+- [Eventually Consistent](https://dl.acm.org/doi/pdf/10.1145/1435417.1435432)
